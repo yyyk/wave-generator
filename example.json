@@ -1,0 +1,85 @@
+{
+  "sampleRate": 48000,
+  "sampleLength": 60.0,
+  "frequency": 261.63,
+  "sineWaves": [
+    {
+      "id": "1",
+      "mute": false,
+      "level": 18,
+      "ratio": 1,
+      "coarse": 0,
+      "fine": 0,
+      "frequencyOffset": 0
+    },
+    {
+      "id": "2",
+      "mute": false,
+      "level": 12,
+      "ratio": 1,
+      "coarse": 0,
+      "fine": 2,
+      "frequencyOffset": 0
+    },
+    {
+      "id": "3",
+      "mute": false,
+      "level": 12,
+      "ratio": 1,
+      "coarse": 0,
+      "fine": 4,
+      "frequencyOffset": 0
+    },
+    {
+      "id": "4",
+      "mute": false,
+      "level": 12,
+      "ratio": 1,
+      "coarse": 0,
+      "fine": 0,
+      "frequencyOffset": 1
+    },
+    {
+      "id": "5",
+      "mute": false,
+      "level": 9,
+      "ratio": 2,
+      "coarse": 0,
+      "fine": 0,
+      "frequencyOffset": 0
+    },
+    {
+      "id": "6",
+      "mute": false,
+      "level": 6,
+      "ratio": 2,
+      "coarse": 0,
+      "fine": 3,
+      "frequencyOffset": 0
+    },
+    {
+      "id": "7",
+      "mute": false,
+      "level": 6,
+      "ratio": 2,
+      "coarse": 0,
+      "fine": 0,
+      "frequencyOffset": 1
+    },
+    {
+      "id": "8",
+      "mute": false,
+      "level": 6,
+      "ratio": 2,
+      "coarse": 0,
+      "fine": 1,
+      "frequencyOffset": 2
+    }
+  ],
+  "adsr": {
+    "attack": 0.0,
+    "decay": 0.0,
+    "sustain": 1.0,
+    "release": 0.005
+  }
+}
